@@ -88,7 +88,7 @@ Eko Innovation Centre
                                 <div class="wrap mcb-wrap one valign-top clearfix">
                                     <div class="mcb-wrap-inner">
                                         <div class="column mcb-column one column_map_basic">
-                                            <iframe class="embed" width="100%" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAybR7cD5q3Cd2DTjyoJSCv-HFvTJVCgoI&amp;q=T-Hub&amp;zoom=13" allowfullscreen></iframe>
+                                            <iframe class="embed" width="100%" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=ooo&amp;q=T-Hub&amp;zoom=13" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                 </div>
