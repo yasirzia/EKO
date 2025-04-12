@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    position: relative;
+    margin: 50px auto;
+}
+
+.box>div>div {
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box>ul {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+} 
+
+.box>ul li {
+    width: 10px;
+    height: 10px;
+    margin: 20px;
+    border-radius: 50%;
+    transition: all 0.5s ease; 
+    border: 2px solid white;
+}
+
+.box>ul li.active {
+    border-color: black;
+}
+
+ .text {
+    transition: all 1s ease-in-out;
+}
+
+.text.active {
+    color: orchid;
+    font-size: 50px;
+}

@@ -1,0 +1,152 @@
+.white {
+	color: #ffffff;
+}
+ul.clients li {
+    width: 33.333%;
+}
+
+
+.post.type-post.format-standard.has-post-thumbnail.hentry.category-single {
+	margin-top:50px;
+}
+
+
+.hover_color, .hover_color a, .hover_color a:hover, .hover_color h1 a, .hover_color h2 a, .hover_color h3 a, .hover_color h4 a, .hover_color h5 a, .hover_color h6 a {
+    color: #626262;
+}
+
+ul.list {
+	padding-left:40px;
+}
+
+ul.list li {
+	    list-style-image: url(../images/pic26.png);
+}
+
+
+.quick_fact .number {
+    font-size: 70px;
+  }
+
+
+.card-body {
+    background: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+    height: 250px;
+    overflow-y: auto;
+}
+
+.card-body a.btn.btn-secondary.btn-sm.disabled {
+    background: #fe6e6e;
+    color: #ffffff;
+    padding: 4px 14px;
+    /* position: absolute; */
+    /* top: 2%; */
+    text-decoration: none;
+}
+
+img.team-popup {
+	float: left;
+	margin-right:10px;
+	width: 150px;
+}
+
+#pp_full_res .pp_inline p {
+    margin: 0 0 15px;
+    line-height: normal;
+}
+.pull-left {
+	float: left;
+}
+
+.popup-inner {
+    padding: 15px;
+}
+
+.pull-right {
+	float: right;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.accordion .question.active .title, .style-simple .accordion .question .title {
+    color: #ffffff;
+    background: #1f3c04;
+    border-bottom: solid 2px #6bc154;
+}
+
+.style-simple .accordion .question .answer {
+    background: none;
+    padding: 0;
+}
+
+
+.mfn-acc ul, .mfn-acc ol{
+    margin: 0;
+}
+
+.accordion .question .title>.acc-icon-plus, .accordion .question .title>.acc-icon-minus {
+
+    color: rgb(255, 255, 255);
+}
+
+.portfolio_group .portfolio-item .desc .title_wrapper {
+   
+    padding-right: 0;
+}
+.portfolio_group.grid .portfolio-item .desc .desc-wrapper {
+    display: block;
+	    margin-right: 0	;
+}
+
+body .padding-top-30 {
+	padding-top:30px !important;
+}
+
+.investors .card {
+    border: 1px solid #e4e0e0;
+    padding: 20px 30px;
+}
+
+
+.card .logo {
+	text-align: center;
+}
+.card .logo img {
+	    height: 90px !important;
+}
+
+
+.card .card-block .card-title {
+    font-size: 20px;
+    color: #3E464F;
+    font-weight: 600;
+    line-height: 25px;
+	margin-bottom: 20px;
+ 
+}
+
+.card .btns a {
+    background: #fe6e6e;
+    padding: 7px 14px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    margin: 3px;
+}
+
+.web a {
+    background: antiquewhite;
+      padding: 4px 20px;
+	  text-decoration: none;
+
+}
+
+span.web {
+    margin-bottom: 10px;
+    display: block;
+}
