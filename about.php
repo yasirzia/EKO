@@ -2,7 +2,7 @@
         <div id="Content">
             <div class="content_wrapper clearfix">
                 <div class="sections_group">
-                    <div class="entry-content">
+                    <div class="entry-content"> 
 					
 					
 					<div class="section mcb-section mcb-section-iu4pqjw0x equal-height-wrap dark" style="padding-top:110px; padding-bottom:70px; background-image:url(images/bg_1.jpg); background-repeat:repeat; background-position:center top;">
